@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://chojh00.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2022-06-12T07:10:15+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://chojh00.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://chojh00.github.io/fa/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://chojh00.github.io/</loc>
+    <lastmod>2022-06-12T08:48:21+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/posts/</loc>
+    <lastmod>2022-06-12T08:48:21+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/posts/%EC%A0%84%EC%9F%81%EC%9D%98%EA%B8%B0%EC%88%A0/</loc>
+    <lastmod>2022-06-12T08:48:21+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/posts/third_post/</loc>
+    <lastmod>2022-06-12T08:24:57+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/posts/post_from_second_laptop/</loc>
+    <lastmod>2022-06-12T07:10:15+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/posts/first_post/</loc>
+    <lastmod>2022-06-11T07:43:33+09:00</lastmod>
+  </url><url>
+    <loc>https://chojh00.github.io/categories/</loc>
+  </url><url>
+    <loc>https://chojh00.github.io/search/</loc>
+  </url><url>
+    <loc>https://chojh00.github.io/series/</loc>
+  </url><url>
+    <loc>https://chojh00.github.io/tags/</loc>
+  </url>
+</urlset>

@@ -5,7 +5,7 @@
     <link>https://chojh00.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jun 2022 21:06:04 +0900</lastBuildDate><atom:link href="https://chojh00.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 09:27:55 +0900</lastBuildDate><atom:link href="https://chojh00.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third_post</title>
       <link>https://chojh00.github.io/posts/test-folder/third_post/</link>
@@ -26,6 +26,15 @@ console.log(&amp;#34;코드 스니핏 테스트&amp;#34;) https://youtu.be/lU4NU
       
       <guid>https://chojh00.github.io/posts/trading/trading_test/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>06/16 테스트</title>
+      <link>https://chojh00.github.io/posts/test-folder/sample1/</link>
+      <pubDate>Thu, 16 Jun 2022 09:27:55 +0900</pubDate>
+      
+      <guid>https://chojh00.github.io/posts/test-folder/sample1/</guid>
+      <description>이 게시물이 보인다면 성공적으로 git에 push 된 것이다.</description>
     </item>
     
     <item>

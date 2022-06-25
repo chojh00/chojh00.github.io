@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>매매복기 on My New Hugo Site</title>
+    <link>https://chojh00.github.io/tags/%EB%A7%A4%EB%A7%A4%EB%B3%B5%EA%B8%B0/</link>
+    <description>Recent content in 매매복기 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Jun 2022 10:15:35 +0900</lastBuildDate><atom:link href="https://chojh00.github.io/tags/%EB%A7%A4%EB%A7%A4%EB%B3%B5%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0625 테스트</title>
+      <link>https://chojh00.github.io/posts/trading/0625test/</link>
+      <pubDate>Thu, 16 Jun 2022 10:15:35 +0900</pubDate>
+      
+      <guid>https://chojh00.github.io/posts/trading/0625test/</guid>
+      <description>H1 H2 H3 </description>
+    </item>
+    
+  </channel>
+</rss>
